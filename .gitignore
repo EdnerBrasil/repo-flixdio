@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# Logs
+*.log
+
+# Azure Functions local settings
+local.settings.json
+
+# Publish output
+publish/
+
+# Rider / VS Code (opcional)
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store

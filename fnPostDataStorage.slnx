@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="fnGetMovieDetail/fnGetMovieDetail.csproj" Id="80027187-f02c-4788-bb50-8747225e9050" />
+  <Project Path="fnPostDatabase/fnPostDatabase.csproj" Id="a118b05a-c7b4-450f-8c49-cf23c3ade78c" />
+  <Project Path="fnPostDataStorage/fnPostDataStorage.csproj" />
+</Solution>
